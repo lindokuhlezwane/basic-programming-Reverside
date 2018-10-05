@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\reversideTrainingP2\reversideTrainingP2\obj\Debug\reversideTrainingP2.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\reversideTrainingP2\reversideTrainingP2\obj\Debug\reversideTrainingP2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\reversideTrainingP2\reversideTrainingP2\bin\Debug\reversideTrainingP2.exe.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\reversideTrainingP2\reversideTrainingP2\bin\Debug\reversideTrainingP2.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\reversideTrainingP2\reversideTrainingP2\bin\Debug\reversideTrainingP2.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\reversideTrainingP2\reversideTrainingP2\obj\Debug\reversideTrainingP2.exe
+C:\Users\User\Documents\Visual Studio 2017\Projects\reversideTrainingP2\reversideTrainingP2\obj\Debug\reversideTrainingP2.pdb
